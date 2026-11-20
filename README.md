@@ -97,7 +97,7 @@ npm run build    # 静态站点输出到 dist/
 
 <img src="docs/media/wechat-group.png" alt="微信群二维码：AI 大航海时代" width="260">
 
-> 当前二维码图片标注为 7 天内有效（2026 年 11 月 18 日前）。过期或无法扫码时，请[在 GitHub 提交入群邀请申请](https://github.com/jbang2004/long-wind/issues/new?title=%E7%94%B3%E8%AF%B7%E5%BE%AE%E4%BF%A1%E7%BE%A4%E9%82%80%E8%AF%B7)，作者会在 Issue 中回复。请勿在公开 Issue 中填写手机号、微信号等个人信息。
+> 当前二维码图片标注为 7 天内有效（2026 年 11 月 27 日前）。过期或无法扫码时，请[在 GitHub 提交入群邀请申请](https://github.com/jbang2004/long-wind/issues/new?title=%E7%94%B3%E8%AF%B7%E5%BE%AE%E4%BF%A1%E7%BE%A4%E9%82%80%E8%AF%B7)，作者会在 Issue 中回复。请勿在公开 Issue 中填写手机号、微信号等个人信息。
 
 ---
 
